@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 1,"CATEGORIA": "Wifi","TITULAR": "Cafetería Torre Blanca","ACCESO": "Libre" }, "geometry": { "type": "Point", "coordinates": [ -2.453100085258484,42.46517603383811 ] } }
+
+]
+}
